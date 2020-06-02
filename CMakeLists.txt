@@ -16,3 +16,8 @@ add_executable(DLinkList list/linklist/DLinkList.cpp)
 add_executable(CycleLinkList list/linklist/CycleLinkList.cpp)
 add_executable(CycleDLinkList list/linklist/CycleDLinkList.cpp)
 
+
+#栈
+add_executable(SeqStack stack/SeqStack.cpp)
+add_executable(LinkStack stack/LinkStack.cpp)
+
